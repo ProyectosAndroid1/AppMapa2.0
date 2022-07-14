@@ -1,0 +1,1 @@
+$env:GOOGLE_APPLICATION_CREDENTIALS="C:\xampp\htdocs\AppMapa2.1\appmapa-6d0cd-firebase-adminsdk-ou4dq-68f533c4ed.json"
